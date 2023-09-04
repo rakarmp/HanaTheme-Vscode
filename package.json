@@ -1,0 +1,21 @@
+{
+  "name": "hana-theme",
+  "displayName": "Hana(花)Theme",
+  "description": "beautiful theme soft and elegant",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hana(花)Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hana(花)Theme-color-theme.json"
+      }
+    ]
+  }
+}
