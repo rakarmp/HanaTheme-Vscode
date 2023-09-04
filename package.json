@@ -3,9 +3,20 @@
   "displayName": "Hana(花)Theme",
   "description": "beautiful theme soft and elegant",
   "version": "0.0.1",
+  "author": "Rakarmp",
+  "publisher": "Zyarexx",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakarmp/HanaTheme-Vscode"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
+  "keywords": [
+    "Hana",
+    "soft"
+  ],
   "categories": [
     "Themes"
   ],
