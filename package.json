@@ -2,7 +2,7 @@
   "name": "hana-theme",
   "displayName": "Hana(花)Theme",
   "description": "beautiful theme soft and elegant",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "author": "Rakarmp",
   "publisher": "Zyarexx",
   "icon": "icon.png",
@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hana(花)Theme",
+        "label": "Hana(花)Theme Elegant",
         "uiTheme": "vs-dark",
         "path": "./themes/Hana(花)Theme-color-theme.json"
+      },
+      {
+        "label": "Hana(花)Theme Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hana(花)Theme-Soft-color-theme.json"
       }
     ]
   }
