@@ -28,7 +28,7 @@
             "foreground": "#d19a66"
         },
         "tomlArrayKey": {
-            "foreground": "#e5c07b"
+            "foreground": "#e7b964"
         }
     },
     "tokenColors": [
